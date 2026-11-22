@@ -1,12 +1,20 @@
-# Software Engineering Lab
+# Software Engineering Laboratory
 
-**Name:** Pranav Shashikiran Atreya  
-**SRN:** PES2UG24CS912  
-**Class:** 5D  
+**Name:** Pranav Shashikiran Atreya
+**SRN:** PES2UG24CS912
+**Class:** 5D
 
-This repository contains the deliverables for the Software Engineering Laboratory.
+## Laboratory Exercises
 
-## Labs
-- **Lab 1** – Requirements Engineering
-- **Lab 2** – Agile Backlog Creation & Sprint Simulation
-- **Lab 3** – Component Modelling & Architectural Pattern Selection
+| Lab / Exercise | Description |
+|---|---|
+| Lab 1–3 | Requirements, Agile and Architecture |
+| Lab 1 | Requirements and Use Case Modelling |
+| Lab 5 | Static Code Analysis |
+| Card Predictor | Debugging and Feature Implementation |
+| Lab 6 | Code and Branch Coverage |
+| Lab 7 | Fuzz Testing |
+| CI/CD | Continuous Integration and Deployment |
+
+Each exercise is organised in its own directory.
+Refer to the individual README files for instructions.
